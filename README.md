@@ -1,4 +1,5 @@
 # Amazon-sales-Analysis
+**Report view**
 https://github.com/ShubhamGautam16/Amazon-sales-Analysis/blob/main/amazon%20dashboard%20pdf.pdf <br/>
 
 **Objective of report :**<br/>
